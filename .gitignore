@@ -1,0 +1,25 @@
+# Scala / sbt
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+.scala-build/
+
+# IDE / sistema operativo
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Dados gerados localmente (manter datasets de exemplo versionados)
+output/
+checkpoints/
+*.log
+
+# Ficheiros locais de configuração
+.env
+.env.*
+!.env.example
