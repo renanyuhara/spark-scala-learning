@@ -1,0 +1,7 @@
+id,cidade,produto,quantidade,preco_unitario
+1,Porto,Teclado,2,120.00
+2,Lisboa,Rato,1,80.00
+3,Porto,Cabo USB,3,25.00
+4,Lisboa,Adaptador,2,30.00
+5,Braga,Caneta,4,15.00
+6,Porto,Tapete,1,50.00
